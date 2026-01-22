@@ -161,8 +161,8 @@
             <mxPoint x="154.39757375241246" y="692.1951219512196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UcPZTGUxYZKpNZoOGV4K-32" parent="UcPZTGUxYZKpNZoOGV4K-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5.2.2 la case est marquée comme touchée et le joueur refait un tour&amp;nbsp;" vertex="1">
-          <mxGeometry height="32.19512195121951" width="297.7667493796526" x="177.55720981527432" y="676.0975609756098" as="geometry" />
+        <mxCell id="UcPZTGUxYZKpNZoOGV4K-32" parent="UcPZTGUxYZKpNZoOGV4K-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5.2.2 le bateau est retiré du plateau et le joueur refait un tour&amp;nbsp;" vertex="1">
+          <mxGeometry height="32.19512195121951" width="297.7667493796526" x="192.55720981527432" y="676.0975609756098" as="geometry" />
         </mxCell>
         <mxCell id="UcPZTGUxYZKpNZoOGV4K-33" edge="1" parent="UcPZTGUxYZKpNZoOGV4K-43" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.001;exitY=0.357;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
