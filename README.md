@@ -31,7 +31,7 @@ Diagramme d’états (état d’une partie ou d’un navire)
 
 
 Outils utilisés:
-Draw.io : création des diagrammes UML
+Draw.io & LucidChart: création des diagrammes UML
 Git & GitHub : gestion de versions et collaboration
 Visual Studio Code : environnement de travail
 
