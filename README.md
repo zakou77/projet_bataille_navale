@@ -16,14 +16,14 @@ Le projet s’appuie sur plusieurs diagrammes UML pour modéliser le système :
 Diagramme de cas d’utilisation 
 
 Diagrammes de séquence :
-Tir sur une case adverse
-Règles de validité du plateau
-Réception d’un tir
-Déplacement d’un bateau 
+-Tir sur une case adverse
+-Règles de validité du plateau
+-Réception d’un tir
+-Déplacement d’un bateau 
 
 Diagramme d’activité : 
-déroulement d’une partie
-configuration de la partie 
+-déroulement d’une partie
+-configuration de la partie 
 
 Diagramme de classes 
 
