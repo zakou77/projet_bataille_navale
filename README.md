@@ -27,9 +27,6 @@ Diagramme d’activité :
 
 Diagramme de classes 
 
-Diagramme d’états (état d’une partie ou d’un navire) 
-
-
 Outils utilisés:
 Draw.io & LucidChart: création des diagrammes UML
 Git & GitHub : gestion de versions et collaboration
