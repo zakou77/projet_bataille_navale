@@ -10,25 +10,35 @@ Le jeu se poursuit jusqu’à ce que l’ensemble des navires d’un joueur soit
 
 Ce projet a été réalisé en groupe de quatre personnes, avec une répartition des tâches décrite dans le rapport associé. 
 
-*Diagrammes UML* /
+*Diagrammes UML* 
+
 Le projet s’appuie sur plusieurs diagrammes UML pour modéliser le système : 
 
 Diagramme de cas d’utilisation 
 
 Diagrammes de séquence :
+
 -Tir sur une case adverse
+
 -Règles de validité du plateau
+
 -Réception d’un tir
+
 -Parcours d’une IA
 
 Diagramme d’activité : 
+
 -déroulement d’une partie
+
 -configuration de la partie 
 
 Diagramme de classes 
 
 *Outils utilisés:*
+
 Draw.io & LucidChart: création des diagrammes UML
+
 Git & GitHub : gestion de versions et collaboration
+
 Visual Studio Code : environnement de travail
 
